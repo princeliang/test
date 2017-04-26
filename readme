@@ -8,3 +8,6 @@ set fileencodings=utf-8,gb2312,gbk,gb18030
 set termencoding=utf-8  
 set fileformats=unix  
 set encoding=prc 
+
+##现在来解决提交一直需要输入密码的问题
+##我还在找方法，找到了会告诉你的！
