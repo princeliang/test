@@ -1,9 +1,10 @@
 this is a example for using git!
-我不信里大不了中文：
-增加了下面几行代码就可以了
+
+
+##当vim里面不能正常显示中文的时候，
+##我们在/~的目录下创建一个 vim.rc
+##填写了下面几行代码就可以了
 set fileencodings=utf-8,gb2312,gbk,gb18030  
 set termencoding=utf-8  
 set fileformats=unix  
-set encoding=prc  
-
-我也不知道是什么意思！
+set encoding=prc 
