@@ -13,4 +13,7 @@ set encoding=prc
 ##我还在找方法，找到了会告诉你的！
 ##找到原因了，是因为我的ssh设置了密码
 #如果我不要密码的话就不会提示我输入密码了！
-#好像不行了，我重新看看能不能把它修好~
+#目前来看github的调试一切正常
+#如果出现了ssh报错：command not found
+#我们需要重新装一次ssh，用一下命令
+#yum install openssh-clients
