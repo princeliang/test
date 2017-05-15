@@ -16,5 +16,5 @@ set encoding=prc
 #目前来看github的调试一切正常
 #增加了对于ssh的问题解决方法
 #如果出现了ssh报错：command not found
-#我们需要重新装一次ssh，用一下命令
+#我们要重新装一次ssh，用一下命令
 #yum install openssh-clients
