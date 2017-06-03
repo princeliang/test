@@ -2,12 +2,13 @@ this is a example for using git!
 
 
 ##当vim里面不能正常显示中文的时候，
-##我们在/~的目录下创建一个 vim.rc
+#在~下创建一个.vimrc文件
 ##填写了下面几行代码就可以了
 set fileencodings=utf-8,gb2312,gbk,gb18030  
 set termencoding=utf-8  
 set fileformats=unix  
 set encoding=prc 
+#如果不可以，我们可以去/etc下找到vimrc文件，在末未添加上面代码即可！
 
 ##现在来解决提交一直需要输入密码的问题
 ##我还在找方法，找到了会告诉你的！
